@@ -26,6 +26,8 @@ Classification and overview of popular Discourse subdomain namings.
 1. [community.rstudio.com](https://community.rstudio.com/)
 1. [community.smartthings.com](https://community.smartthings.com/)
 1. [community.unbounce.com](https://community.unbounce.com/)
+1. [community.greenbone.net](community.greenbone.net)
+1. [community.signalusers.org](https://community.signalusers.org/)
 
 ## Forum
 
@@ -63,6 +65,8 @@ Classification and overview of popular Discourse subdomain namings.
 1. [forum.xboxera.com](https://forum.xboxera.com/)
 1. [forum.yugabyte.com](https://forum.yugabyte.com/)
 1. [forum.yunohost.org](https://forum.yunohost.org/)
+1. [forum.tzm.community](https://forum.tzm.community)
+1. [forum.fairphone.com](https://forum.fairphone.com)
 
 ## Forums
 
@@ -95,6 +99,7 @@ Classification and overview of popular Discourse subdomain namings.
 1. [discourse.getdbt.com](https://discourse.getdbt.com/)
 1. [discourse.nodered.org](https://discourse.nodered.org/)
 1. [discourse.threejs.org](https://discourse.threejs.org/)
+1. [discourse.jupyter.org](https://discourse.jupyter.org)
 
 ## Talk
 
@@ -114,6 +119,9 @@ Classification and overview of popular Discourse subdomain namings.
 1. [swi-prolog.discourse.group](https://swi-prolog.discourse.group/)
 1. [users.rust-lang.org](https://users.rust-lang.org/)
 1. [www.mongodb.com/community/forums](https://www.mongodb.com/community/forums)
+1. [ask.fedoraproject.org](https://ask.fedoraproject.org/)
+1. [discussion.fedoraproject.org](https://discussion.fedoraproject.org/)
+1. [devtalk.blender.org](https://devtalk.blender.org/)
 
 ## Without Subdomain
 
